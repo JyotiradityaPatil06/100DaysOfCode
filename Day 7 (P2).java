@@ -1,9 +1,7 @@
 // Minimum sum (GFG)
 
 
-public class Day 7 (P2) {
-    //{ Driver Code Starts
-//Initial Template for Java
+
 
 
 
@@ -87,4 +85,4 @@ class Solution {
     }
 }
 
-}
+
